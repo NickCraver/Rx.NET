@@ -1,0 +1,8 @@
+﻿<ProjectConfiguration>
+  <Settings>
+    <AdditionalFilesToIncludeForProject />
+    <CopyReferencedAssembliesToWorkspace>False</CopyReferencedAssembliesToWorkspace>
+    <ImplicitProjectDependencyPathsRelativeToSolutionDirectory />
+    <PreloadReferencedAssemblies>False</PreloadReferencedAssemblies>
+  </Settings>
+</ProjectConfiguration>
